@@ -1,6 +1,6 @@
 # Magic Hate Ball
 
-Turing creates a computer to crack the German enigma codes in 1940. The modern transistor was invented in 1947. The World Wide Web connects computers internationally by 1989. We're over a quarter into the 21st century now and busy people across the world face the same problem: we all have questions.
+Turing creates a computer to crack the German enigma codes in 1940. The transistor was invented in 1947. The World Wide Web connects computers internationally by 1989. We're over a quarter into the 21st century now and busy people across the world face the same problem: we all have questions.
 
 It is on this November 21st 2026 that I am proud to provide the solution to this problem. 
 
