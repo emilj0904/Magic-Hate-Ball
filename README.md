@@ -8,6 +8,5 @@ It is on this November 21st 2026 that I am proud to provide the solution to this
 
 Download all files and put them in the same folder.
 
-You will need to install the modules PYQT5 and PYGAME if you have not already. I trust you can figure out how to do that. 
-
+You will need to install the modules PYQT5 and PYGAME if you have not already.
 The code should work without any errors because I am really smart.
